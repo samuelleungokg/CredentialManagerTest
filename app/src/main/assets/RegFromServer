@@ -35,7 +35,7 @@
         <authenticatorAttachment>
         "requireResidentKey":false,
         "residentKey": "preferred",
-        "userVerificationMethod": "<userVerification>"
+        "userVerification": "<userVerification>"
     },
     "user": {
            "id": "<userId>",
